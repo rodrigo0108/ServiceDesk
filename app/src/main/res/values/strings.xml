@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Service Desk</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="opcion_3">Opcion 3</string>
+    <string name="perfil">Perfil</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="registrar_ticket_nuevo">Registrar ticket nuevo</string>
+    <string name="consultar_estado_de_su_ticket">Consultar estado de su ticket</string>
+    <string name="consultar_todos_los_tickets">Consultar todos los tickets</string>
+    <string name="asignar_ticket_a_t_cnico">Asignar ticket a técnico</string>
+    <string name="reporte_de_tickets">Reporte de tickets</string>
+    <string name="consultar_tickets_asignados">Consultar tickets asignados</string>
+    <string name="atender_tickets_asignados">Atender tickets asignados</string>
+</resources>
